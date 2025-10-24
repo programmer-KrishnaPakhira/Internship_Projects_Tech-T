@@ -9,7 +9,7 @@ pygame.init()
 width = 600
 height = 400
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("🐍 Snake Game by Krishna Pakhira")
+pygame.display.set_caption("🐍 Snake Game by Krishna")
 
 # Colors
 white = (255, 255, 255)
